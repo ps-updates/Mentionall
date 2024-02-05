@@ -1,0 +1,6 @@
+telethon
+cryptg
+asyncio
+Flask
+gunicorn
+aiohttp
